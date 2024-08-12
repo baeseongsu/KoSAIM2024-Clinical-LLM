@@ -9,7 +9,7 @@ This repository is for the session 3 (large language model) in [KoSAIM 2024 Summ
 ## Contents
 - How to build a clinical domain Large Language Model (LLM)?
   - (Large) Language Model
-  - How to build a (large) language model?
+  - How to build a (Language) Langauge Model?
   - Building an instruction-following LLM in the clinical domain
   - Asclepius (Gweon and Kim et al., ACL 2024 Findings)
 - Hands-on Session: Fine-tuning a clinical domain LLM
@@ -43,3 +43,8 @@ This repository is for the session 3 (large language model) in [KoSAIM 2024 Summ
 - `Asclepius` [Kweon, Sunjun, et al. "Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes." arXiv preprint arXiv:2309.00237 (2023).](https://arxiv.org/pdf/2309.00237)
 - `Lora` [Hu, Edward J., et al. "Lora: Low-rank adaptation of large language models." arXiv preprint arXiv:2106.09685 (2021).](https://arxiv.org/pdf/2106.09685)
 - `QLora` [Dettmers, Tim, et al. "Qlora: Efficient finetuning of quantized llms." Advances in Neural Information Processing Systems 36 (2024).](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
+- [https://github.com/starmpcc/KAIA-LLM-FT-2024](https://github.com/starmpcc/KAIA-LLM-FT-2024)
+
+## Contributors
+- Seongsu Bae (seongsu@kaist.ac.kr)
+- Sujeong Im (sujeongim@kaist.ac.kr)
