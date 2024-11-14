@@ -1,10 +1,14 @@
 # KoSAIM2024-Clinical-LLM
 
-This repository is for the session 3 (large language model) in [KoSAIM 2024 Summer School].
+This repository contains lecture materials on fine-tuning a clinical domain LLM for KoSAIM 2024.
 
 ## Main Materials
+### 2024-08-10
 - [Lecture Slides](https://docs.google.com/presentation/d/1OKYCo2aSuOo7nkus6ly2rrECpG_5QkPC6Hg3d1ooz3A/edit?usp=sharing)
 - [Colab Link](https://colab.research.google.com/drive/1UGfib5xlepFu-b0bmwTLGvR07hvJKJS4?usp=sharing)
+### 2024-11-14
+- [Lecture Slides](https://docs.google.com/presentation/d/1Pw1h1F_4kYSF2GGkDhtPE-R29Cvycd5xs4koFec0bmQ/edit?usp=sharing)
+- [Colab Link](https://colab.research.google.com/drive/1_zMpUA2dHQu3eROEDdr4u5Vi5JQ9ZbA3?usp=sharing)
 
 ## Contents
 - How to build a clinical domain Large Language Model (LLM)?
